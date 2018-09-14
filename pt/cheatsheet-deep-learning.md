@@ -4,7 +4,7 @@
 
 <br>
 
-**2. Neural Networks**
+**2. Redes Neurais**
 
 &#10230;
 
